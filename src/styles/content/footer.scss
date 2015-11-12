@@ -1,0 +1,11 @@
+.site-footer{
+  position: relative;
+  height: 0;
+  padding-bottom: 57%;
+
+
+
+  .footer-background{
+    @extend .container-absolute;
+  }
+}

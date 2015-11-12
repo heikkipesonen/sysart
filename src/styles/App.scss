@@ -1,19 +1,35 @@
 /* Base Application Styles */
-@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
-body {
-  font-family: 'Cutive Mono';
+// @import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+@import 'variables';
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  // font-family: 'Cutive Mono';
   color: #444;
+  margin:0;
+  padding:0;
+}
+
+*{
+  box-sizing: border-box;
 }
 
 h1,h2{
   text-transform: uppercase;
 }
 
+ul,li{
+  list-style-type: none;
+  padding:0;
+  margin:0;
+}
+
 .text-white{
   color: white;
 }
 
-.view {
+.container-absolute{
   position: absolute;
   top:0;
   left:0;
@@ -21,14 +37,24 @@ h1,h2{
   bottom: 0;
   height: auto;
   width: auto;
-  background-color: white;
-  z-index: 1;
+}
+
+.background-holder{
+  background-size: cover;
+  background-position: center center;
+}
+
+.view{
+  @extend .container-absolute;
+  &.has-menu{
+    top: $main-menu-bar-height;
+  }
 }
 
 .view-background{
-  @extend .view;
-  background-size: cover;
-  background-position: center center;
+  @extend .container-absolute;
+  @extend .background-holder;
+
   z-index: -1;
 
   transition: 0.4s;
@@ -43,30 +69,43 @@ h1,h2{
   }
 }
 
-.view-content {
+.view-content{
   position: relative;
-  padding: 3%;
 }
 
 
-.layout-center {
+.layout-center{
   display:flex;
   align-items: center;
   justify-content: center;
 }
 
-.scroll-y {
+.scroll-y{
   overflow-y: auto;
 }
 
-.view-appear {
-  opacity: 0.01;
+.view-appear, .menu-item-appear{
+  opacity: 0;
 }
 
-.view-appear.view-appear-active {
+.view-appear.view-appear-active, .menu-item-appear.menu-item-appear-active{
   opacity: 1;
   transition: opacity .5s ease-in;
 }
+
+.animate{
+  transition: 0.3s;
+  transition: opacity .5s ease-in;
+}
+
+.image-loading{
+  opacity: 0;
+}
+
+.image-ready{
+  opacity: 1;
+}
+
 
 .image-container{
 
@@ -82,3 +121,10 @@ h1,h2{
     }
   }
 }
+
+@import 'navigation/main-menu';
+@import 'people/people';
+@import 'slider/slider';
+@import 'content/page';
+@import 'content/section';
+@import 'content/footer';

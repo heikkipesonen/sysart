@@ -1,5 +1,5 @@
 import React from 'react';
-
+import ImageContainer from './ImageContainer.js';
 
 class PeopleList extends React.Component {
   constructor (props) {
@@ -14,21 +14,33 @@ class PeopleList extends React.Component {
     fetch('people.json').then((response) => {
       response.json().then((data) => {
         this.setState({
-          list: data
+          title: data.title,
+          text: data.text,
+          list: data.items
         });
-
-        console.log(data);
       });
     })
   }
 
   render () {
     return (
-      <div className="people-list">
-        { this.state.list.map((item, index) => {
-          return <h4 key={index}>{ item.name } </h4>;
+      <section className="people-list page-content">
+        <div className="section-header">
+          <h2 className="section-title">{this.state.title}</h2>
+          <p className="section-description">{this.state.text}</p>
+        </div>
+        { this.state.list.map((person, index) => {
+          return (
+            <div className="person" key={index}>
+              <ImageContainer className="image-person" src={person.image}></ImageContainer>
+              <div className="person-info">
+                <h4 className="person-name">{ person.name }</h4>
+                <h5 className="person-title">{ person.title }</h5>
+              </div>
+            </div>
+          );
         }) }
-      </div>
+      </section>
     )
   }
 }

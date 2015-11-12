@@ -1,0 +1,52 @@
+$person-thumbnail-size: 200px;
+
+.people-list{
+  text-align: center;
+}
+
+.person{
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  width: $person-thumbnail-size;
+  vertical-align: top;
+  padding: 10px;
+
+  text-align: center;
+}
+
+
+.person-info{
+  padding: 8px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+
+  font-size: 10pt;
+  height: 64px;
+}
+
+.person-name, .person-title {
+  margin: 0;
+}
+
+.person-name{
+
+}
+
+.person-title {
+
+}
+
+.image-person{
+  display: inline-block;
+  border-radius: 50%;
+  width: 70%;
+  padding-bottom: 70%;
+  height: 0;
+  background-size: cover;
+  background-position: center center;
+}

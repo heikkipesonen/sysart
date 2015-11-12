@@ -1,177 +1,181 @@
-[
-  {
-    "image": "http://sysart.fi/img/people/joonas_haaparanta.jpg",
-    "name" : "Joonas Haaparanta",
-    "title": "Frontend Ninja"
-  },
-  {
-    "image": "http://sysart.fi/img/people/maija-liisa_raiski.jpg",
-    "name" : "Maija-Liisa Raiski",
-    "title": "Testauskonsultti"
-  },
-  {
-    "image": "http://sysart.fi/img/people/heikki_pesonen.jpg",
-    "name" : "Heikki Pesonen",
-    "title": "Druidi"
-  },
-  {
-    "image": "http://sysart.fi/img/people/vesa-ville_piiroinen.jpg",
-    "name" : "Vesa-Ville Piiroinen",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/timo_posio.jpg",
-    "name" : "Timo Posio",
-    "title": "Tuotekehitysjohtaja"
-  },
-  {
-    "image": "http://sysart.fi/img/people/daniel_wellner.jpeg",
-    "name" : "Daniel Wellner",
-    "title": "Tulevaisuuden lähettiläs"
-  },
-  {
-    "image": "http://sysart.fi/img/people/juha_kamula.png",
-    "name" : "Juha Kamula",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/hanna_javanainen.png",
-    "name" : "Hanna Javanainen",
-    "title": "Test Specialist"
-  },
-  {
-    "image": "http://sysart.fi/img/people/aki_lappalainen.png",
-    "name" : "Aki Lappalainen",
-    "title": "Koodari"
-  },
-  {
-    "image": "http://sysart.fi/img/people/jyrki_puttonen.jpg",
-    "name" : "Jyrki Puttonen",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/matti_viljakainen.png",
-    "name" : "Matti Viljakainen",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/keijo_koivupalo.png",
-    "name" : "Keijo Koivupalo",
-    "title": "digiDI"
-  },
-  {
-    "image": "http://sysart.fi/img/people/teemu_jaaskelainen.jpg",
-    "name" : "Teemu Jääskeläinen",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/janne_tormanen.jpg",
-    "name" : "Janne Törmänen",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/juuso_haikonen.png",
-    "name" : "Juuso Haikonen",
-    "title": "Porolordi"
-  },
-  {
-    "image": "http://sysart.fi/img/people/kimmo_saapunki.jpg",
-    "name" : "Kimmo Saapunki",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/sami_klaavu.JPG",
-    "name" : "Sami Klaavu",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/seppo_suorsa.png",
-    "name" : "Seppo Suorsa",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/jaana_heikkinen.jpg",
-    "name" : "Jaana Heikkinen",
-    "title": "Projektipäällikkö"
-  },
-  {
-    "image": "http://sysart.fi/img/people/marko_oikarinen.jpg",
-    "name" : "Marko Oikarinen",
-    "title": "Maestro"
-  },
-  {
-    "image": "http://sysart.fi/img/people/kaisa_kotilaine.png",
-    "name" : "Kaisa Kotilaine",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/ilkka_piiroinen.jpg",
-    "name" : "Ilkka Piiroinen",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/veli-matti_jaakola.jpg",
-    "name" : "Veli-Matti Jaakola",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/ari_pikkarainen.jpg",
-    "name" : "Ari Pikkarainen",
-    "title": "Johtaja"
-  },
-  {
-    "image": "http://sysart.fi/img/people/marko_peltonen.png",
-    "name" : "Marko Peltonen",
-    "title": "Liiketoimintajohtaja"
-  },
-  {
-    "image": "http://sysart.fi/img/people/petri_maenpaa.jpg",
-    "name" : "Petri Mäenpää",
-    "title": "Toimitusjohtaja"
-  },
-  {
-    "image": "http://sysart.fi/img/people/arto_virtanen.jpg",
-    "name" : "Arto Virtanen",
-    "title": "Test Specialist"
-  },
-  {
-    "image": "http://sysart.fi/img/people/antero_ollila.jpg",
-    "name" : "Antero Ollila",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/tatu_solla.jpg",
-    "name" : "Tatu Solla",
-    "title": "Juniori"
-  },
-  {
-    "image": "http://sysart.fi/img/people/joni_kiiskinen.jpg",
-    "name" : "Joni Kiiskinen",
-    "title": "Digitaalinen luoja"
-  },
-  {
-    "image": "http://sysart.fi/img/people/arto_esko.png",
-    "name" : "Arto Esko",
-    "title": "Ohjelmistosuunnittelija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/satu_kontio.png",
-    "name" : "Satu Kontio",
-    "title": "Tuotepäällikkö"
-  },
-  {
-    "image": "http://sysart.fi/img/people/risto_kalliokoski.png",
-    "name" : "Risto Kalliokoski",
-    "title": "Myyntijohtaja"
-  },
-  {
-    "image": "http://sysart.fi/img/people/mikko_korhonen.png",
-    "name" : "Mikko Korhonen",
-    "title": "Järjestelmäasiantuntija"
-  },
-  {
-    "image": "http://sysart.fi/img/people/pertti_erkkila.jpg",
-    "name": "Pertti Erkkilä",
-    "title": "Ohjelmistosuunnittelija"
-  }
-]
+{
+  "title": "Ihmiset",
+  "text": "Nuo mitään tekemättömät luikerot jotka vaan kuppaavat firmasta rahaa, tekevät toki myös töitä, mutta kuppaavat silti.",
+  "items": [
+    {
+      "image": "http://sysart.fi/img/people/joonas_haaparanta.jpg",
+      "name" : "Joonas Haaparanta",
+      "title": "Frontend Ninja"
+    },
+    {
+      "image": "http://sysart.fi/img/people/maija-liisa_raiski.jpg",
+      "name" : "Maija-Liisa Raiski",
+      "title": "Testauskonsultti"
+    },
+    {
+      "image": "http://sysart.fi/img/people/heikki_pesonen.jpg",
+      "name" : "Heikki Pesonen",
+      "title": "Druidi"
+    },
+    {
+      "image": "http://sysart.fi/img/people/vesa-ville_piiroinen.jpg",
+      "name" : "Vesa-Ville Piiroinen",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/timo_posio.jpg",
+      "name" : "Timo Posio",
+      "title": "Tuotekehitysjohtaja"
+    },
+    {
+      "image": "http://sysart.fi/img/people/daniel_wellner.jpeg",
+      "name" : "Daniel Wellner",
+      "title": "Tulevaisuuden lähettiläs"
+    },
+    {
+      "image": "http://sysart.fi/img/people/juha_kamula.png",
+      "name" : "Juha Kamula",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/hanna_javanainen.png",
+      "name" : "Hanna Javanainen",
+      "title": "Test Specialist"
+    },
+    {
+      "image": "http://sysart.fi/img/people/aki_lappalainen.png",
+      "name" : "Aki Lappalainen",
+      "title": "Koodari"
+    },
+    {
+      "image": "http://sysart.fi/img/people/jyrki_puttonen.jpg",
+      "name" : "Jyrki Puttonen",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/matti_viljakainen.png",
+      "name" : "Matti Viljakainen",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/keijo_koivupalo.png",
+      "name" : "Keijo Koivupalo",
+      "title": "digiDI"
+    },
+    {
+      "image": "http://sysart.fi/img/people/teemu_jaaskelainen.jpg",
+      "name" : "Teemu Jääskeläinen",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/janne_tormanen.jpg",
+      "name" : "Janne Törmänen",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/juuso_haikonen.png",
+      "name" : "Juuso Haikonen",
+      "title": "Porolordi"
+    },
+    {
+      "image": "http://sysart.fi/img/people/kimmo_saapunki.jpg",
+      "name" : "Kimmo Saapunki",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/sami_klaavu.JPG",
+      "name" : "Sami Klaavu",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/seppo_suorsa.png",
+      "name" : "Seppo Suorsa",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/jaana_heikkinen.jpg",
+      "name" : "Jaana Heikkinen",
+      "title": "Projektipäällikkö"
+    },
+    {
+      "image": "http://sysart.fi/img/people/marko_oikarinen.jpg",
+      "name" : "Marko Oikarinen",
+      "title": "Maestro"
+    },
+    {
+      "image": "http://sysart.fi/img/people/kaisa_kotilaine.png",
+      "name" : "Kaisa Kotilaine",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/ilkka_piiroinen.jpg",
+      "name" : "Ilkka Piiroinen",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/veli-matti_jaakola.jpg",
+      "name" : "Veli-Matti Jaakola",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/ari_pikkarainen.jpg",
+      "name" : "Ari Pikkarainen",
+      "title": "Johtaja"
+    },
+    {
+      "image": "http://sysart.fi/img/people/marko_peltonen.png",
+      "name" : "Marko Peltonen",
+      "title": "Liiketoimintajohtaja"
+    },
+    {
+      "image": "http://sysart.fi/img/people/petri_maenpaa.jpg",
+      "name" : "Petri Mäenpää",
+      "title": "Toimitusjohtaja"
+    },
+    {
+      "image": "http://sysart.fi/img/people/arto_virtanen.jpg",
+      "name" : "Arto Virtanen",
+      "title": "Test Specialist"
+    },
+    {
+      "image": "http://sysart.fi/img/people/antero_ollila.jpg",
+      "name" : "Antero Ollila",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/tatu_solla.jpg",
+      "name" : "Tatu Solla",
+      "title": "Juniori"
+    },
+    {
+      "image": "http://sysart.fi/img/people/joni_kiiskinen.jpg",
+      "name" : "Joni Kiiskinen",
+      "title": "Digitaalinen luoja"
+    },
+    {
+      "image": "http://sysart.fi/img/people/arto_esko.png",
+      "name" : "Arto Esko",
+      "title": "Ohjelmistosuunnittelija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/satu_kontio.png",
+      "name" : "Satu Kontio",
+      "title": "Tuotepäällikkö"
+    },
+    {
+      "image": "http://sysart.fi/img/people/risto_kalliokoski.png",
+      "name" : "Risto Kalliokoski",
+      "title": "Myyntijohtaja"
+    },
+    {
+      "image": "http://sysart.fi/img/people/mikko_korhonen.png",
+      "name" : "Mikko Korhonen",
+      "title": "Järjestelmäasiantuntija"
+    },
+    {
+      "image": "http://sysart.fi/img/people/pertti_erkkila.jpg",
+      "name": "Pertti Erkkilä",
+      "title": "Ohjelmistosuunnittelija"
+    }
+  ]
+}

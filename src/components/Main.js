@@ -2,10 +2,13 @@ require('normalize.css');
 require('styles/App.scss');
 
 import React from 'react';
+import Menu from './Menu.js';
+import Slider from './Slider.js';
 import View from './View.js';
-import ViewBackground from './ViewBackground.js';
+import Footer from './Footer.js';
+import Careers from './Careers.js';
 import PeopleList from './PeopleList.js';
-import MainStore from 'stores/MainStore.js';
+// import MainStore from 'stores/MainStore.js';
 
 class AppComponent extends React.Component {
 
@@ -17,14 +20,24 @@ class AppComponent extends React.Component {
     };
   }
 
+  componentDidMount () {
+    this._viewport = this.refs.view;
+    console.log(this._viewport);
+  }
+
   render() {
     return (
-      <div>
-      <ViewBackground src="images/bg-main.jpg"></ViewBackground>
-      <View scroll={true} className="index layout-center">
-        <h1 className="text-white">Saatanan saatana</h1>
-        <PeopleList></PeopleList>
-      </View>
+      <div className="view-wrapper" ref="view">
+        <View scroll={true} className="index has-menu">
+
+            <Slider></Slider>
+
+            <Careers></Careers>
+            <PeopleList></PeopleList>
+
+            <Footer></Footer>
+        </View>
+        <Menu></Menu>
       </div>
     );
   }

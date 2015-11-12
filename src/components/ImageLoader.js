@@ -1,5 +1,5 @@
 import React from 'react';
-import Utils from './utils.js';
+import Utils from '../utils/utils.js';
 
 class ImageLoader extends React.Component {
   constructor (props) {
@@ -12,22 +12,26 @@ class ImageLoader extends React.Component {
   }
 
   componentDidMount () {
-    this.preload();
+    this.preload(this.props.src);
   }
 
-  componentWillReceiveProps (nextProps) {
-    this.setState({src: nextProps.src});
+  componentWillReceiveProps (newProps) {
+    this.preload(newProps.src);
   }
 
-  preload () {
+  shouldComponentUpdate (newProps, newState) {
+    return this.state.src !== newState.src || this.state.loading !== newState.loading;
+  }
+
+  preload (src) {
     this.setState({loading: true});
-    return Utils.preloadImage(img.src).then((img) => {
+    return Utils.preloadImage(src).then((img) => {
       this.setState({src: img.src, loading: false});
     });
   }
 
   render () {
-    let classNames = ['image-container', this.state.loading ? 'image-loading' : 'image-ready'].join(' ');
+    let classNames = this.props.className + ' ' + ['image','animate', this.state.loading ? 'image-loading' : 'image-ready'].join(' ');
     return (
       <div className={classNames}>
         <img src={this.state.src}></img>

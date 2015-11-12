@@ -1,0 +1,45 @@
+{
+  "title": "Ajankohtaista",
+  "items":[
+    {
+     "title": "Sysart on valittu CSC – Tieteen tietotekniikan keskus Oy:n puitesopimustoimittajaksi",
+     "image": "http://sysart.fi/img/customers/s_csc.jpg",
+     "date": "22.10.2015",
+     "content":[
+        "Hankinnan kohteena on IT-konsultointi- ja IT-asiantuntijatyön tuottaminen CSC – Tieteen tietotekniikan keskus Oy:lle sekä puitejärjestelyssä mukana oleville korkeakouluille (Haaga-Helia ammattikorkeakoulu, Turun ammattikorkeakoulu, Lapin yliopisto, Lappeenrannan teknillinen yliopisto, Karelia ammattikorkeakoulu, Jyväskylän yliopisto ja Metropolia ammattikorkeakoulu). Puitejärjestely mahdollistaa osaavien ja saatavilla olevien asiantuntijapalveluiden käyttämisen tilaajan ja puitejärjestelyssä mukana olevien korkeakoulujen itsenäisesti toteutettavien tai mahdollisten yhteisten IT-hankkeiden läpiviemiseksi.",
+        "Puitesopimuskausi on 2 vuotta, jonka lisäksi on mahdollinen 2 vuoden optio. Hankinnan sopimuskauden hinta on arviolta 3-9 miljoonaa euroa."
+     ]
+    },
+    {
+      "title": "Digitaaliset kuulumiset Oulun Energialta",
+      "date": "18.8.2015",
+      "image":"http://sysart.fi/img/customers/s_oulunenergia.png",
+      "content":[
+        "Keskitetyllä integraatioratkaisulla tehokkuutta Oulun Energialla on käytössä useita erilaisia taloushallinto- ja raportointijärjestelmiä, joilla suunnitellaan, budjetoidaan ja seurataan kriittisiä talouslukuja. Tiedon siirtyminen oikeellisena oikeaan aikaan järjestelmästä toiseen on ensiarvoisen tärkeää, jotta viimeisin tieto on käytettävissä kaikkialla organisaatiossa.",
+        "Lähdimme Oulun Energian kanssa vaiheittain selvittämään ja rakentamaan parasta mahdollista ratkaisua ongelmaan, jolla ratkaistaan tiedon siirtyminen yli kymmenen eri järjestelmän välillä. Selvityksen aikana valitsimme yhdessä käytettävät teknologiat ja päädyimme tulokseen, että avoimeen lähdekoodiin perustuva, lisenssimaksuton palveluväylä (ESB) -ratkaisu olisi kaikkein sopivin heidän integraatiotarpeisiinsa. Tällöin syntyvä ratkaisu ei ole sidottu yhteen toimittajaan ja sitä voidaan ketterästi sekä muokata että laajentaa tarpeiden muuttuessa. Palveluväylän kehityksen alussa tunnistettiin erityinen tarve lyhyelle kehityssyklille, jossa tarvittava muutos voidaan viedä tuotantoon hyvinkin nopeasti. Tämä edellyttää ratkaisun hyvää testattavuutta ja ympäristön virtualisointia.",
+        "Toteutettu palveluväyläratkaisu ottaa vastaan ja lukee tietoja useasta eri järjestelmästä monessa eri muodossa, yhdistää tietoja, validoi niiden oikeellisuuden ja vie suoraan toisiin järjestelmiin niiden tukemassa muodossa. Jos tiedoissa havaitaan puutteellisuutta tai jonkin asian käsittelyyn tarvitaan lisätoimia, palveluväylä luo tapauksesta tehtävän Oulun Energian käyttämään tehtävien hallinnan järjestelmään tai lähettää tapauksesta sähköpostia. Tämä vapauttaa henkilöresursseja tärkeämpiin tehtäviin, kun tietoja ei tarvitse syöttää järjestelmästä toiseen käsin. Myös tiedon oikeellisuus on paremmin varmistettavissa ohjelmallisesti.",
+        "<blockquote>Olemme yhdessä Sysart Oy:n osaavan ja palveluhenkisen porukan kanssa saaneet aikaan merkittäviä hyötyä liiketoimintaamme Sysartin suunnitteleman ja toteuttaman palveluväyläratkaisun avulla. Janne Koivuranta, Järjestelmäasiantuntija, Oulun Energia Oy</blockquote>"
+      ]
+    },
+    {
+      "title":"Verohallinnon chatin suosio yllätti",
+      "date": "16.6.2015",
+      "image":"http://sysart.fi/img/news/verohallinto.png",
+      "content":[
+        "Verohallinto valitsi Sysartin monikanavaisen verkkoasiakaspalvelun toimittajaksi. Verkkoasiakaspalvelun osa-alueista chat-palvelu tarjoaa asiakkaille nopean ja interaktiivisen tavan hakea apua verotusta koskeviin ongelmiinsa.",
+        "Veroilmoitus verkossa -palvelussa chat oli ylivoimainen asiakaspalvelukanava. Chat-palvelu on ollut käytössä huhtikuun alusta saakka ja jo yli 10 000 asiakasta on saanut apua veroasioissa. Lähes 90 % yhteydenotoista tuli chatin kautta. Toiseksi tuli puhelin 10 %:n osuudella, kun taas kirjallisia tukipyyntöjä tehtiin vain kourallinen.",
+        "Verohallinto on valinnut Sysartin monikanavaisen verkkoasiakaspalvelun toimittajaksi. Uuden palvelun avulla verottaja pystyy yhdistämään aiemmat erillisratkaisut yhdeksi kokonaisuudeksi, mikä tehostaa asiakaspalvelua sekä tarjoaa asiakkaille yhden selkeän ja helposti lähestyttävän asiakaspalvelupisteen. Verkkoasiakaspalvelu tulee koostumaan kolmesta osasta: vastauspankki, Oma kysymys -palvelu sekä chat-palvelu."
+      ]
+    },
+    {
+      "title": "Espoon hyvinvointipalveluiden sähköistys etenee",
+      "date": "16.12.2014",
+      "image": "http://sysart.fi/img/customers/s_espoo.png",
+      "content":[
+        "Espoon sosiaali- ja terveystoimen sähköisten palvelujen kehitys etenee vauhdilla. Nyt vuorossa on talous- ja velkaneuvonta, jossa on otettu käyttöön OmaTalous -verkkopalvelu.",
+        "Palvelussa voi esittää kysymyksiä talous- ja velkaneuvojalle sekä löytää vastauksia usein kysyttyihin kysymyksiin. Lisäksi asiakas voi valmistautua henkilökohtaiseen tapaamiseen lähettämällä etukäteen sähköisellä lomakkeella omaa taloutta koskevia tietoja. Näin itse tapaamisella jää enemmän aikaa ratkaisujen etsimiseen.",
+        "Aiemmin lokakuussa julkaistu OmaNeuvola -palvelu on saanut erittäin hyvän vastaanoton. Sekä asiakkaat että ammattilaiset ovat kehuneet palvelun selkeää käyttöliittymää ja helppokäyttöisyyttä. Tyytyväisyys on näkynyt myös käyttöaktiivisuudessa, sillä 86% neuvolan uusista asiakkaista on siirtynyt sähköisen palvelun käyttäjiksi."
+      ]
+    }
+  ]
+}

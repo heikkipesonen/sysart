@@ -1,0 +1,25 @@
+{
+  "title":"Töihin! Meille!",
+  "content":[
+    "Oletko valmistumaisillasi vai etsitkö uusia haasteita digitaalisen kehityksen kärjestä? Etsimme jatkuvasti hyviä tyyppejä mukaan kasvattamaan yritystämme sekä Helsinkiin että Ouluun!"
+  ],
+  "items":[
+    {
+      "title":"Front-end developer Helsinki",
+      "content":[
+        "Haluatko olla luomassa itsesi näköistä työpaikkaa? Jaatko filosofiamme, että tärkeintä ei ole se mitä olemme tänään, vaan se mitä meistä on tulossa? Älä käsitä äskeistä väärin, meillä on hyvä pöhinä jo nyt. Luotamme itseorganisoituvaan työyhteisöön, jossa jokainen yksilö ja tiimi päättää itseään koskevista asioista. Uskomme myös yhdessä tekemiseen ja oppimiseen, sillä tiimi on enemmän kuin osiensa summa.",
+        "Tämä ei kuitenkaan riitä. Haluamme heittää lisää pökköä pesään. Tule rakentamaan kanssamme porukalla unelmien duunia. Pääset vaikuttamaan kaikkeen yrityksen tekemiseen, oli kyse sitten teknologiavalinnoista, haviteltavien projektien luonteesta tai toimiston verhojen väristä. Ainoastaan oma intosi ja mielenkiintosi toimii rajana.",
+        "Meille on aivan sama missä vaiheessa olet urapolullasi, kunhan olet matkalla kanssamme huipulle. Olet sinut JavaScriptin kanssa mutta jaat kanssamme palavan halun oppia Front-Endin saloja. Tänään revimme hiuksiamme ja heittelemme ylävitosia AngularJS:n ja ReactJS:n kanssa - Huomenna katsotaan uudestaan. Pyrimme jatkuvasti päivittämään työkalupakkiamme välttääksemme hakkaamasta nauloja ruuvimeisselillä.",
+        "Sovi aika ja tule tutustumaan. Samalla voit haastaa meidät toimistomme minigolf-radalla!",
+        "Daniel Wellner 0440241278 daniel.wellner@sysart.fi @DMWellner"
+      ]
+    },
+    {
+      "title":"Avoin hakemus Helsinki",
+      "content":[
+        "Etsimme jatkuvasti uusia osaajia nopeasti kasvavaan yritykseemme. Tällä hetkellä etsimme Helsingin tiimiin Front-End taitureita! Meillä on myös tapana vastata ripeästi kaikkiin hakemuksiin.",
+        "Lähetä itsesi näköinen hakemus ansioluettelon kera Danielille osoitteeseen: daniel.wellner@sysart.fi"
+      ]
+    }
+  ]
+}

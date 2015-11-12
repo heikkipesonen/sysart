@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
-import Utils from './utils.js';
+import Utils from '../utils/utils.js';
 
 class View extends React.Component {
 

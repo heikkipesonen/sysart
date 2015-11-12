@@ -1,0 +1,26 @@
+{
+  "title":"Palvelut",
+  "content":[
+    "Asiakkaan kannalta digitaalisten palveluiden kehittämisessä kaikkein ratkaisevinta on löytää oikeat ongelmat ja asiat, joita on tarkoitus ratkaista. Vahvuutemme on auttaa asiakasta keskittymään olennaiseen ja rakentamaan juuri ne ominaisuudet ja toiminnot, jotka ovat tärkeimmät onnistuneiden palvelujen kannalta ("minimum viable product"). Mitään muuta emme ole tekemässä emmekä kehoita myöskään asiakasta tekemään. Näin investoinnille saadaan mahdollisimman hyvä vastine eikä rahaa polteta turhiin hienouksiin tai ominaisuuksiin, joita kukaan ei käytä."
+  ],
+  "items":[
+    {
+      "title":"Digitaaliset palvelut",
+      "content":[
+        "Autamme asiakkaita rakentamaan näyttäviä ja helppokäyttöisiä verkkopalveluita, jotka tehostavat liiketoimintaa. Tiedostamme että selainteknologiat kehittyvät hurjaa vauhtia, joten ratkaisumme on luotu helposti ylläpidettäviksi ja päivitettäväksi. Hyödynnämme laajasti avointa lähdekoodia, mikä tarkoittaa asiakkaalle kustannustehokkaita ratkaisuja."
+      ]
+    },
+    {
+      "title":"Sähköinen asiointi",
+      "content":[
+        "Julkisen sektorin lupa-, hakemus-, anomus, palaute-, palvelupyyntö- ja asiointiprosessien sähköistämisen ratkaisumme perustuvat itse kehittämäämme sähköisen asioinnin alustaan. Alusta mahdollistaa tietosisältöjen, lomakkeiden ja toimintaprosessien helpon mallintamisen, mikä nopeuttaa huomattavsti palveluiden kehittämistä ja tuo kustannussäästöjä. Lisäksi alusta tarjoaa laajat integrointimahdollisuudet sekä tuen yleisimmille julkisille standardeille (Vetuma-tunnistautuminen ja -maksaminen, Katso, asiointitili jne)"
+      ]
+    },
+    {
+      "title":"Asiakaspalvelu",
+      "content":[
+        "Tarjoamme asiakaspalvelun ratkaisuksi omaa Requeste Helpdesk -ohjelmistoamme. Helppo muokattavuus mahdollistaa sovittamisen erilaisiin prosesseihin ja toimintaympäristöhin ja tekee käyttöönotoista nopeita."
+      ]
+    }
+  ]
+}
