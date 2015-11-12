@@ -1,0 +1,84 @@
+/* Base Application Styles */
+@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+body {
+  font-family: 'Cutive Mono';
+  color: #444;
+}
+
+h1,h2{
+  text-transform: uppercase;
+}
+
+.text-white{
+  color: white;
+}
+
+.view {
+  position: absolute;
+  top:0;
+  left:0;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  width: auto;
+  background-color: white;
+  z-index: 1;
+}
+
+.view-background{
+  @extend .view;
+  background-size: cover;
+  background-position: center center;
+  z-index: -1;
+
+  transition: 0.4s;
+  opacity: 0;
+
+  &.loading{
+    opacity: 0;
+  }
+
+  &.ready{
+    opacity: 1;
+  }
+}
+
+.view-content {
+  position: relative;
+  padding: 3%;
+}
+
+
+.layout-center {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scroll-y {
+  overflow-y: auto;
+}
+
+.view-appear {
+  opacity: 0.01;
+}
+
+.view-appear.view-appear-active {
+  opacity: 1;
+  transition: opacity .5s ease-in;
+}
+
+.image-container{
+
+  img{
+    opacity: 0;
+    transition: 0.3s;
+  }
+
+  &.image-ready{
+
+    img{
+      opacity: 1;
+    }
+  }
+}
