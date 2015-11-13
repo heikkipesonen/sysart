@@ -1,17 +1,17 @@
 /* Base Application Styles */
 // @import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
-@import 'reset';
+// @import 'reset';
 @import 'variables';
 
 
 body{
   font-family: 'Open Sans', sans-serif;
   // font-family: 'Cutive Mono';
-  color: #444;
-  margin:0;
-  padding:0;
-  line-height: 1.5rem;
+  // color: #444;
+  // margin:0;
+  // padding:0;
+  // line-height: 1.5rem;
 }
 
 
@@ -22,22 +22,22 @@ body{
 h1,h2{
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 24pt;
-  margin: 20px;
+  // font-size: 24pt;
+  // margin: 20px;
 }
 
-h3{
-  font-size: 16pt;
-}
-
-h4{
-  font-size: 12pt;
-}
-
-h3,h4,h5{
-  font-weight: 600;
-  margin: 20px 0;
-}
+// h3{
+//   font-size: 16pt;
+// }
+//
+// h4{
+//   font-size: 12pt;
+// }
+//
+// h3,h4,h5{
+//   font-weight: 600;
+//   margin: 20px 0;
+// }
 
 ul,li{
   list-style-type: none;

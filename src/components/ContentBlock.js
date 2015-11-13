@@ -44,9 +44,9 @@ class ContentBlock extends React.Component {
     let classNames = this.props.className || '';
     classNames += ' content-block';
     classNames += this.state.contentVisible ? ' content-visible' : '';
-    
+
     return (
-      <div className={classNames}>
+      <div className={classNames}>        
         <h3 className="content-title" onClick={this.toggleContent}>{this.state.title}</h3>
         {(()=>{
           if (this.state.contentVisible) {

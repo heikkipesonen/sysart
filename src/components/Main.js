@@ -1,5 +1,6 @@
 require('normalize.css');
 require('styles/App.scss');
+require('ionicons/scss/ionicons.scss');
 
 import React from 'react';
 import Menu from './Menu.js';
@@ -27,17 +28,21 @@ class AppComponent extends React.Component {
   render() {
     return (
       <div className="view-wrapper" ref="view">
+
         <View scroll={true} className="index has-menu">
 
-            <Slider></Slider>
-            <ContentSection src="newsfeed.json"></ContentSection>
-            <ContentSection src="careers.json"></ContentSection>
+          <Slider></Slider>
 
-            <PeopleList></PeopleList>
+          <ContentSection src="newsfeed.json"></ContentSection>
+          <ContentSection src="careers.json"></ContentSection>
 
-            <Footer></Footer>
+          <PeopleList></PeopleList>
+
+          <Footer></Footer>
         </View>
+
         <Menu></Menu>
+
       </div>
     );
   }
