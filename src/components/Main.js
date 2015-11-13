@@ -6,9 +6,8 @@ import Menu from './Menu.js';
 import Slider from './Slider.js';
 import View from './View.js';
 import Footer from './Footer.js';
-import Careers from './Careers.js';
+import ContentSection from './ContentSection.js';
 import PeopleList from './PeopleList.js';
-// import MainStore from 'stores/MainStore.js';
 
 class AppComponent extends React.Component {
 
@@ -31,8 +30,9 @@ class AppComponent extends React.Component {
         <View scroll={true} className="index has-menu">
 
             <Slider></Slider>
+            <ContentSection src="newsfeed.json"></ContentSection>
+            <ContentSection src="careers.json"></ContentSection>
 
-            <Careers></Careers>
             <PeopleList></PeopleList>
 
             <Footer></Footer>

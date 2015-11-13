@@ -2,15 +2,17 @@
   "title": "Ajankohtaista",
   "items":[
     {
-     "title": "Sysart on valittu CSC – Tieteen tietotekniikan keskus Oy:n puitesopimustoimittajaksi",
-     "image": "http://sysart.fi/img/customers/s_csc.jpg",
-     "date": "22.10.2015",
-     "content":[
+      "visible":false,
+      "title": "Sysart on valittu CSC – Tieteen tietotekniikan keskus Oy:n puitesopimustoimittajaksi",
+      "image": "http://sysart.fi/img/customers/s_csc.jpg",
+      "date": "22.10.2015",
+      "content":[
         "Hankinnan kohteena on IT-konsultointi- ja IT-asiantuntijatyön tuottaminen CSC – Tieteen tietotekniikan keskus Oy:lle sekä puitejärjestelyssä mukana oleville korkeakouluille (Haaga-Helia ammattikorkeakoulu, Turun ammattikorkeakoulu, Lapin yliopisto, Lappeenrannan teknillinen yliopisto, Karelia ammattikorkeakoulu, Jyväskylän yliopisto ja Metropolia ammattikorkeakoulu). Puitejärjestely mahdollistaa osaavien ja saatavilla olevien asiantuntijapalveluiden käyttämisen tilaajan ja puitejärjestelyssä mukana olevien korkeakoulujen itsenäisesti toteutettavien tai mahdollisten yhteisten IT-hankkeiden läpiviemiseksi.",
         "Puitesopimuskausi on 2 vuotta, jonka lisäksi on mahdollinen 2 vuoden optio. Hankinnan sopimuskauden hinta on arviolta 3-9 miljoonaa euroa."
-     ]
+      ]
     },
     {
+      "visible":false,
       "title": "Digitaaliset kuulumiset Oulun Energialta",
       "date": "18.8.2015",
       "image":"http://sysart.fi/img/customers/s_oulunenergia.png",
@@ -22,6 +24,7 @@
       ]
     },
     {
+      "visible":false,
       "title":"Verohallinnon chatin suosio yllätti",
       "date": "16.6.2015",
       "image":"http://sysart.fi/img/news/verohallinto.png",
@@ -32,6 +35,7 @@
       ]
     },
     {
+      "visible":false,
       "title": "Espoon hyvinvointipalveluiden sähköistys etenee",
       "date": "16.12.2014",
       "image": "http://sysart.fi/img/customers/s_espoo.png",

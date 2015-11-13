@@ -31,11 +31,12 @@
 
   &.menu-open{
     .menu-item {
+      height: $main-menu-item-height;
+
       .menu-item-title{
+        transition-delay: 0;
         opacity: 1;
       }
-
-      height: $main-menu-item-height;
     }
   }
 }

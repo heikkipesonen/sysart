@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-class Content extends React.Component {
+class ContentItem extends React.Component {
   constructor (props) {
     super(props);
 
@@ -39,4 +39,4 @@ class Content extends React.Component {
   }
 }
 
-export default Content;
+export default ContentItem;
