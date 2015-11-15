@@ -1,5 +1,5 @@
 import React from 'react';
-import ImageContainer from './ImageContainer.js';
+import ImageContainer from '../ImageContainer.js';
 import ContentBlock from './ContentBlock.js';
 
 class ContentSection extends React.Component {

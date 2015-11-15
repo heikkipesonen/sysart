@@ -1,23 +1,46 @@
-[
-  {
-    "title":"Ura"
-  },
-  {
-    "title":"Ihmiset"
-  },
-  {
-    "title":"Blogit"
-  },
-  {
-    "title":"Ajankohtaista"
-  },
-  {
-    "title":"Palvelut"
-  },
-  {
-    "title":"Asiakkaat"
-  },
-  {
-    "title":"Yhteystiedot"
-  }
-]
+{
+  "type":"menu",
+  "title":"Sysart",
+  "items":[
+    {
+      "title":"Ura"
+    },
+    {
+      "title":"Ihmiset"
+    },
+    {
+      "title":"Blogit"
+    },
+    {
+      "title":"Ajankohtaista",
+      "content":"Hankinnan kohteena on IT-konsultointi- ja IT-asiantuntijatyön tuottaminen",
+      "items":[
+        {
+          "title":"Sysart on valittu CSC – Tieteen tietotekniikan keskus Oy:n puitesopimustoimittajaksi",
+          "content":"Hankinnan kohteena on IT-konsultointi- ja IT-asiantuntijatyön tuottaminen"
+        },
+        {
+          "title":"Digitaaliset kuulumiset Oulun Energialta",
+          "content":"Keskitetyllä integraatioratkaisulla tehokkuutta Oulun Energialla on käytössä useita erilaisia taloushallinto- ja raportointijärjestelmiä"
+        },
+        {
+          "title":"Verohallinnon chatin suosio yllätti",
+          "content":"Verohallinto valitsi Sysartin monikanavaisen verkkoasiakaspalvelun toimittajaksi."
+        },
+        {
+          "title":"Espoon hyvinvointipalveluiden sähköistys etenee",
+          "content":"Espoon sosiaali- ja terveystoimen sähköisten palvelujen kehitys etenee vauhdilla. Nyt vuorossa on talous- ja velkaneuvonta, jossa on otettu käyttöön OmaTalous -verkkopalvelu."
+        }
+      ]
+    },
+    {
+      "title":"Palvelut"
+    },
+    {
+      "title":"Asiakkaat"
+    },
+    {
+      "title":"Yhteystiedot"
+    }
+  ]
+}
